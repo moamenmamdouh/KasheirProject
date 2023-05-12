@@ -1,7 +1,7 @@
 Feature: User Registration
   In order to create a store
   As a Kasheir's applicant
-  I want to register successfully
+  I want to register successfully \
 
   Background:
     Given applicant navigates to registration page
